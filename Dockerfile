@@ -1,4 +1,4 @@
-FROM ubuntu:15.04
+FROM ubuntu:16.04
 MAINTAINER Marek Obuchowicz <marek@korekontrol.eu>
 
 # Setup python and java and base system
