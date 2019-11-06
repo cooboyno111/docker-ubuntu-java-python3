@@ -5,9 +5,9 @@ Use it in `Dockerfile`:
 ```
 BASE Image
 ```
-FROM FROM lupenglogo/docker-ubuntu-java-python3:v1
+FROM lupenglogo/docker-ubuntu-java-python3:v1
 ```
 ADD beautifulsoup4 pandas lxml html5lib Image
 ```
-FROM FROM lupenglogo/docker-ubuntu-java-python3:v2
+FROM lupenglogo/docker-ubuntu-java-python3:v2
 ```
