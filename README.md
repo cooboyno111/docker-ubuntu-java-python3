@@ -11,3 +11,6 @@ ADD beautifulsoup4 pandas lxml html5lib Image
 ```
 FROM lupenglogo/docker-ubuntu-java-python3:v2
 ```
+爬虫全家桶套装-selenium pyspider Scrapy chrome75 chromedriver
+FROM lupenglogo/docker-ubuntu-java-python3:v3
+```
