@@ -10,7 +10,7 @@ RUN apt-get update && \
   apt-get install -q -y openjdk-8-jdk python3-pip libsnappy-dev language-pack-en supervisor
 
 RUN pip3 install --upgrade pip requests
-
+RUN pip3 install beautifulsoup4 pandas lxml html5lib
 ADD supervisord.conf /etc/supervisor/supervisord.conf
 
 
